@@ -78,6 +78,17 @@ body{
         padding: 5px;
       }
 
+      .main-info{
+        display: flex;
+      }
+      
+      .comments{
+        margin-top: 20px;
+        color: white;
+        font-size: 13px;
+        line-height: 20px;
+        text-align: justify;
+      }
 
 
 
