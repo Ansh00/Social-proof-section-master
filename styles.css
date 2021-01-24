@@ -202,4 +202,11 @@ body{
             border-radius: 50%;
             border: 5px solid hsl(303, 10%, 53%);
           }
-          
+          .attribution {
+            font-size: 11px;
+            text-align: center;
+            margin-top: 2px;
+          }
+          .attribution a {
+            color: hsl(228, 45%, 44%);
+          }
