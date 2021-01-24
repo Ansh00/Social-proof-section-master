@@ -210,4 +210,39 @@ body{
           .attribution a {
             color: hsl(228, 45%, 44%);
           }
+          .img-user{
+            display: flex;
+          }
+          .name{
+            width: 70%;
+            position: relative;
+            /* display: inline-block; */
+            margin: auto;
+            height: auto;
+            margin-left: 10px;
+          }
           
+          .user-name{
+            color: white;
+            font-weight: 700;
+            font-size: small;
+            padding: 5px;
+          }
+          
+          .user-verified{
+            color: hsl(333, 80%, 67%);
+            font-weight: 400;
+            font-size: small;
+            padding: 5px;
+          }
+          .main-info{
+            display: flex;
+          }
+          .comments{
+            margin-top: 20px;
+            color: white;
+            font-size: 13px;
+            line-height: 20px;
+            text-align: justify;
+          }
+          }

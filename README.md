@@ -1,3 +1,6 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ansh00/Social-proof-section-master)
+ 
+
 # Frontend Mentor - Social proof section
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
