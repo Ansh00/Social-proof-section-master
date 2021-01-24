@@ -36,7 +36,47 @@ body{
       margin-bottom: 30px;
       border-radius: 0.6rem;
     }
-    
+    .customer1
+    {
+        background-color: hsl(300, 43%, 22%);
+        margin-bottom: 30px;
+      
+        padding: 2rem;
+        border-radius: 0.5rem;
+      }
+      
+      .testimonials img{
+        display: flex;
+        width: auto;
+        height: 50px;
+        border-radius: 50%;
+        border: 5px solid hsl(303, 10%, 53%);
+      }
+      
+      .img-user{
+        display: flex;
+      }
+      .name{
+        width: 100%;
+        position: relative;
+        margin: auto;
+        height: auto;
+        margin-left: 10px;
+      }
+      
+      .user-name{
+        color: white;
+        font-weight: 700;
+        font-size: small;
+        padding: 5px;
+      }
+      
+      .user-verified{
+        color: hsl(333, 80%, 67%);
+        font-weight: 400;
+        font-size: small;
+        padding: 5px;
+      }
 
 
 
@@ -123,3 +163,17 @@ body{
             margin-left: 6rem;
             margin-right: -6rem;
           }
+          .testimonials{
+            display: flex;
+            margin-top: 10px
+            height: auto;
+          }
+          .customer1
+          {
+            background-color: hsl(300, 43%, 22%);
+            margin: 5px 20px 5px 0;
+            width: 25%;
+            padding: 2rem;
+            border-radius: 0.5rem;
+          }
+          
