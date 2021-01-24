@@ -36,7 +36,7 @@ body{
       margin-bottom: 30px;
       border-radius: 0.6rem;
     }
-    .customer1
+    .customer1, .customer2, .customer3
     {
         background-color: hsl(300, 43%, 22%);
         margin-bottom: 30px;
@@ -179,7 +179,7 @@ body{
             margin-top: 10px
             height: auto;
           }
-          .customer1
+          .customer1, .customer2, .customer3
           {
             background-color: hsl(300, 43%, 22%);
             margin: 5px 20px 5px 0;
